@@ -16,10 +16,6 @@
 através de uma interface que qualquer um pode aprender. O CMS será o WordPress, este está presente em mais de 25% dos sites
 da Web e em mais de 50% dos que utilizam um CMS.
 
-<p align="center">
-    Certificado em BREVE
-</p>
-
 ![certificate-preview-570950e1-1](https://user-images.githubusercontent.com/57417305/80658273-1f00ec80-8a5c-11ea-8c99-af336b68409c.png)
 
 ![inicial-](https://user-images.githubusercontent.com/57417305/79775149-34627200-830a-11ea-865d-3613726ebea2.png)
