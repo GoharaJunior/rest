@@ -20,6 +20,8 @@ da Web e em mais de 50% dos que utilizam um CMS.
     Certificado em BREVE
 </p>
 
+![certificate-preview-570950e1-1](https://user-images.githubusercontent.com/57417305/80658273-1f00ec80-8a5c-11ea-8c99-af336b68409c.png)
+
 ![inicial-](https://user-images.githubusercontent.com/57417305/79775149-34627200-830a-11ea-865d-3613726ebea2.png)
 
 ![01](https://user-images.githubusercontent.com/57417305/79775249-59ef7b80-830a-11ea-91c4-c5e2110cbf42.jpg)
